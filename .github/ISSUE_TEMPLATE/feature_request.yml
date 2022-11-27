@@ -1,0 +1,25 @@
+name: Feature Request
+description: Request a new feature or enhancement
+labels: ["enhancement"]
+assignees: ["eslutz"]
+title: "FEATURE REQUEST: "
+body:
+  - type: markdown
+    attributes:
+      value: Please make sure there aren't any open/closed features for this topic.
+
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Description of the feature
+      description: Give a brief description of the feature or enhancement.
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: Provide any additional additional information or context for the request like proposed solutions, links, screenshots, etc.
+    validations:
+      required: false
