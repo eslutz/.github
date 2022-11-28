@@ -18,7 +18,7 @@ All types of contributions are encouraged and valued.  See the [Table of Content
 
 ## Code of conduct
 
-This project and everyone participating in it is governed by a [Code of Conduct](CODE_OF_CONDUCT.md) based on the [Contributor Code of Conduct](https://www.contributor-covenant.org/). By participating, you are expected to uphold this code. Please report unacceptable behavior to [eric@ericslutz.com](mailto:eric@ericslutz.com).
+This project and everyone participating in it is governed by a [Code of Conduct](CODE_OF_CONDUCT.md) based on the [Contributor Code of Conduct](https://www.contributor-covenant.org/). By participating, you are expected to uphold this code. Please report unacceptable behavior to [eric@ericslutz.dev](mailto:eric@ericslutz.dev).
 
 ## I just have a question!
 
