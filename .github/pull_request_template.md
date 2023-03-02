@@ -12,15 +12,15 @@
 ## How Has This Been Tested?
 <!--- Please describe in detail how you tested your changes. -->
 
-## Screenshots (if appropriate):
+## Screenshots (if appropriate)
 
 ## Type of change
-<!--- What type of change does your code introduce? Put an `x` in the box that applies: -->
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature/enhancement (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
+<!--- What type of change does your code introduce? Uncomment the option that applies: -->
+<!--- Bug fix (non-breaking change which fixes an issue) -->
+<!--- New feature/enhancement (non-breaking change which adds functionality) -->
+<!--- Breaking change (fix or feature that would cause existing functionality to change) -->
 
-## Checklist:
+## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 - [ ] I have read the [CONTRIBUTING](../docs/CONTRIBUTING.md) document.
 - [ ] My code follows the code style of this project.
